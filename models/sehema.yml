@@ -1,0 +1,10 @@
+
+version: 2
+
+models:
+    - name: "hello_world"
+      description: "A starter dbt model"
+      columns:
+          - name: id
+            description: "The primary key for this table"
+         
